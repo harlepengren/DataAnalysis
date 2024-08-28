@@ -1,0 +1,5 @@
+Treasury Data (10 year constant maturity): https://fred.stlouisfed.org/series/dgs10
+Inflation: https://fred.stlouisfed.org/series/FPCPITOTLZGUSA
+S&P 500: https://www.kaggle.com/datasets/henryhan117/sp-500-historical-data?resource=download
+Rental Data Index (not seasonally adjusted): https://fred.stlouisfed.org/series/CUUR0000SEHA
+Rental Data (Redfin): https://www.redfin.com/news/data-center/rental-market-data/
